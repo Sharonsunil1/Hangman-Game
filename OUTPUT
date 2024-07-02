@@ -1,0 +1,38 @@
+Welcome to Hangman!
+
+_ _ _ _ _ _
+Incorrect guesses left: 10
+Guess a letter: r
+Wrong guess! The letter 'r' is not in the word.
+
+_ _ _ _ _ _
+Incorrect guesses left: 9
+Guess a letter: p
+Good guess!
+
+p _ _ _ _ _
+Incorrect guesses left: 9
+Guess a letter: y
+Good guess!
+
+p y _ _ _ _
+Incorrect guesses left: 9
+Guess a letter: t
+Good guess!
+
+p y t _ _ _
+Incorrect guesses left: 9
+Guess a letter: h
+Good guess!
+
+p y t h _ _
+Incorrect guesses left: 9
+Guess a letter: o
+Good guess!
+
+p y t h o _
+Incorrect guesses left: 9
+Guess a letter: n
+Good guess!
+Congratulations! You guessed the word: python
+PS C:\Users\psriv\OneDrive\VSCODE\python code\Python>
